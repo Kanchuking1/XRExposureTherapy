@@ -19,10 +19,10 @@ In the therapy, you can select difficulty between 3 given level. (This feature i
 The project drive link: https://drive.google.com/drive/u/1/folders/1KQkmXwwbLza5YGD3wzi3DD2blUZ8-sB2
 
 Following is the list of our group members:
-<ol>
+<ul>
 <li>Amit Chauhan – 2018A7PS0196G</li>
 <li>Hrishik Sagar – 2018AAPS0340G</li>
 <li>Namit Chandwani – 2018A7PS0207G</li>
 <li>Stuti Panda – 2018B5PS0912G</li>
 <li>Wahib Sabir Kapdi – 2018A3PS0247G</li>
-</ol>
+</ul>
