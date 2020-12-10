@@ -1,7 +1,7 @@
 # XRExposureTherapy
 A project to support XR Exposure Therapy using mobile phones under doctors prescriptions
 
-#Description#
+#Description
 <ol>
   <li>Unity 2019.3.13</li>
   <li>Google Ar Core: 1.20.0</li>
@@ -11,7 +11,7 @@ The main app is in the main folder itself.<br>
 The test apks in case the main app does not work are in IndividualAPKs folder.<br>
 The test demo videos are in the videos folder.<br>
 The given files will run on Oculus headsets and android phones which support depth API and ARCore.<br>
-#Steps to use the app:#
+#Steps to use the app:<br>
 Open the app<br>
 Select the phobia you want to experience therapy for<br>
 In the therapy, you can select difficulty between 3 given level. (This feature is not a part of the PTSD therapy)<br>
