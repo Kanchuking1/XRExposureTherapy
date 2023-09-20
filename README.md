@@ -17,7 +17,7 @@ Select the phobia you want to experience therapy for<br>
 In the therapy, you can select difficulty between 3 given level. (This feature is not a part of the PTSD therapy)<br>
 
 The project drive link: https://drive.google.com/drive/u/1/folders/1KQkmXwwbLza5YGD3wzi3DD2blUZ8-sB2
-Presentation: https://github.com/Kanchuking1/XRExposureTherapy
+Presentation: [Link](https://drive.google.com/file/d/12RjG1rFaKMhnKPi0ymuNfk0Z-WwTPx2l/view?usp=sharing)
 
 Following is the list of our group members:
 <ul>
